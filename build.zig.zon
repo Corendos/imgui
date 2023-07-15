@@ -1,0 +1,10 @@
+.{
+    .name = "imgui",
+    .version = "1.89.7",
+    .dependencies = .{
+        .glfw = .{
+            .url = "https://github.com/hexops/glfw/archive/ea649150b9053e0f05dec9dcd80e23cd78afe041.tar.gz",
+            .hash = "1220afdfae0ece92c61a6c8350e77cc74f9d6ce03b2afd2ccb881dedda994fd2d194",
+        },
+    },
+}
